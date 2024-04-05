@@ -1,1 +1,1 @@
-kaggle datasets download -d columbine/imdb-dataset-sentiment-analysis-in-csv-format
+https://github.com/Ankit152/IMDB-sentiment-analysis.git
